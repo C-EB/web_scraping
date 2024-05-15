@@ -1,5 +1,3 @@
-#for more information visit our web site : https://www.pythonaa.com/
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
